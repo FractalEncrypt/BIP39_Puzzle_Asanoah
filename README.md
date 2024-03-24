@@ -29,4 +29,8 @@ A simple script to verify if a txt file containing valid 12-word sets comtains a
 This is a modified version of AsanoahScript.py that was created to remove "quit" from the available words.
 
 # Notes
-We know it is a BIP-39 seed - https://x.com/asanoha_gold/status/1768754706946445725?s=20
+- We know it is a BIP-39 seed - https://x.com/asanoha_gold/status/1768754706946445725
+- We know there are no repeated words - https://x.com/asanoha_gold/status/1769582971999101117
+- We know there are exactly two 3-letter words - https://x.com/asanoha_gold/status/1769780999863566512
+- We know the address where the sats are - bc1qrtm29up092l9k25jmdh49wp34x78hpg4pl9puh
+
