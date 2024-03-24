@@ -20,7 +20,7 @@ There are a series of Valid Sets files. These are valid sets of 12 words that ar
 Each set has no repeated words, and there are no duplicate sets within each file. 
 I did combine the sets into a single file and checked for duplicates and came up with 131,000 unique valid sets out of 240,000.
 
-You cna verify this by running Valid_Sets_1-4.txt against VerifySets.py
+You can verify this by running Valid_Sets_1-4.txt against VerifySets.py
 
 # VerifySets.py
 A simple script to verify if a txt file containing valid 12-word sets comtains any duplicate sets.
