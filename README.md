@@ -43,6 +43,9 @@ You can verify this by running Valid_Sets_1-4.txt against VerifySets.py
 # VerifySets.py
 A simple script to verify if a txt file containing valid 12-word sets comtains any duplicate sets.
 
+# VerifyCharacterSet.py
+A simple script to verify if a txt file containing valid 12-word sets comtains exactly the characters from the puzzle (no more and no less).
+
 # Notes
 - We know it is a BIP-39 seed - https://x.com/asanoha_gold/status/1768754706946445725
 - We know there are no repeated words - https://x.com/asanoha_gold/status/1769582971999101117
